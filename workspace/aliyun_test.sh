@@ -1,7 +1,7 @@
 #!/usr/bin/env bash 
 
 source /etc/profile
-
+#多线程抽取数据
 
 today=$1
 
